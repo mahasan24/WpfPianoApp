@@ -1,0 +1,17 @@
+MusicalPianoApp 🎹
+A WPF-based virtual piano application built using C# and XAML. Explore musical notes interactively and enjoy a beautifully styled interface.
+
+Features ✨
+🎵 Interactive piano keys with a custom-styled UI.
+🌟 Smooth hover and press animations for keys.
+🛠 Built using WPF for a modern desktop application feel.
+📖 "About Piano" section to learn more about the application.
+🚪 Exit functionality with a single click.
+
+
+Installation 🚀
+Clone the repository:
+git clone https://github.com/yourusername/MusicalPianoApp.git  
+Open the project in Visual Studio.
+Build the project to restore dependencies.
+Run the application and start playing!
