@@ -10,8 +10,19 @@ Features ✨
 
 
 Installation 🚀
-Clone the repository:
+Clone the repository: https://github.com/mahasan24/WpfPianoApp/blob/main/piano.sln
 git clone https://github.com/yourusername/MusicalPianoApp.git  
 Open the project in Visual Studio.
 Build the project to restore dependencies.
 Run the application and start playing!
+
+Technologies Used 🛠️
+C#: Logic and event handling.
+WPF (Windows Presentation Foundation): For UI design.
+XAML: For declarative UI styling and layout.
+
+How to Use 🎶
+Launch the app to see the piano keys.
+Click on the keys (A, B, C, D, E, F) to simulate piano sounds.
+Use the "Exit" button to close the app.
+Explore additional functionality through the "About Piano" section.
